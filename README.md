@@ -7,7 +7,7 @@ This script provides a menu-driven interface to manage Backhaul configurations a
 - **Remove Configuration and Service:** Completely remove backhaul configurations and systemd service.
 - **Restart Service:** Restart the backhaul service.
 - ** create proper cron to restart the server
-- **GitHub:** [mahdipatriot/backhaul](https://github.com/mahdipatriot/backhaul)
+- **GitHub:** [mahdipatriot/backhaul](https://github.com/meysamsh1092/backhaul)
 - **Source:** [Musixal/Backhaul](https://github.com/Musixal/Backhaul)
 
 
