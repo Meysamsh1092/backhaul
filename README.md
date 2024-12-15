@@ -17,3 +17,8 @@ To use this script, run the following command in your terminal:
 
 ```bash
 bash <(curl -Ls https://raw.githubusercontent.com/meysamsh1092/backhaul/main/backhaul.sh)
+
+To update if the files are in the /root path , run the following command in your terminal:
+
+```bash
+bash <(curl -Ls https://raw.githubusercontent.com/meysamsh1092/backhaul/main/update.sh)
